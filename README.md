@@ -1,5 +1,5 @@
 # CodeClauseInternship_bookscraper
-Build a web scraper using libraries like BeautifulSoup and requests to extract data from a website.
+
 # 📚 Book Price Scraper (GBP to INR)
 
 This is a Python-based web scraping project that extracts book details like title, price (converted to ₹ INR), and availability from the website [BooksToScrape.com](https://books.toscrape.com/). The output is displayed in a clean, formatted table using the `rich` library.
